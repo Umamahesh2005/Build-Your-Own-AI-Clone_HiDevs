@@ -1,0 +1,1 @@
+The Clone is an AI-powered virtual assistant that mimics human conversation. It is trained using LLMs like GPT and integrated with tools such as LangChain for context awareness and vector search.
